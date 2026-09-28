@@ -1,9 +1,7 @@
 # projeto-programacao
 CentralRecursivaRobusta
 
-Integrantes:
 Erik Alves de Sousa - 26.1.19172
-
 Fernando Lemke da Silveira - 26.1.18620
 
 Descrição do projeto
